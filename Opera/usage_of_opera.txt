@@ -1,0 +1,8 @@
+Opera Mini - users: 2 668 847
+Opera Mobile - users: 774 921
+Opera Classic - users: 161 642
+
+Gathered from:
+https://play.google.com/store/apps/details?id=com.opera.mini.android&hl=pl - Opera Mini
+https://play.google.com/store/apps/details?id=com.opera.browser&hl=pl - Opera Mobile
+https://play.google.com/store/apps/details?id=com.opera.browser.classic&hl=pl - Opera Classic

@@ -1,0 +1,4 @@
+LINX OPERA MINI
+http://stackoverflow.com/questions/22760475/opera-mini-doesnt-support-line-height
+http://docs.webplatform.org/wiki/css/properties/line-height
+http://docs.webplatform.org/wiki/css/properties/position
